@@ -1,4 +1,4 @@
-![Imagen del proyecto](https://github.com/eduardofierropro/Google-Stadia/blob/main/src/assets/home1.png)
+![Imagen del proyecto](https://github.com/eduardofierropro/Google-Stadia/blob/main/assets/home1.png)
 
 # Google Stadia Copycat
 
