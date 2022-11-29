@@ -61,4 +61,4 @@ Enb este proyecto de Twtich programamos en directo la web de Google Stadia busca
 ## 📄 Licencia 
 
 MIT Public License v3.0
-No puede usarse comencialmente
+No puede usarse comercialmente
