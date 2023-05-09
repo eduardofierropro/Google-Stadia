@@ -1,6 +1,6 @@
 ![Imagen del proyecto](https://github.com/eduardofierropro/Google-Stadia/blob/main/assets/home1.png)
 
-# Google Stadia Copycat
+# Copycat: Google Stadia 
 
 Enb este proyecto de Twtich programamos en directo la web de Google Stadia buscando hacer la interfaz visual más parecida.
 
